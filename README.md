@@ -1,5 +1,7 @@
 ﻿# HTM-CSS_progate
 # Belajar HTML dan CSS
+![image](https://github.com/herdiyana256/HTM-CSS_progate/assets/82978131/e569f59d-5d66-4524-8a62-f6b085f8e059)
+
 ![image](https://github.com/herdiyana256/HTM-CSS_progate/assets/82978131/d6b61fa9-4440-4f2b-8420-c2207d9445ce)
 
 Selamat datang di repositori ini! Di sini, Anda akan menemukan berbagai materi, contoh kode, dan latihan untuk belajar HTML dan CSS dari dasar hingga tingkat lanjutan. Repositori ini cocok untuk pemula yang ingin memulai karir di bidang pengembangan web front-end.
